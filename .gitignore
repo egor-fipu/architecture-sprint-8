@@ -332,6 +332,7 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/node,react,jetbrains+all,visualstudiocode,macos,windows
 /tmp/
 *.bkp
+__pycache__/
 
 /postgres-keycloak-data
 2024__yandex-architecture-sso.code-workspace
